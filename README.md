@@ -24,7 +24,7 @@ Finest banks are working on introducing security features to banknotes. Ultravio
 
 ## Results<a name="results"></a>
 
-All the process and results of this project can be found at the post available [here](https://thiagolimaop.medium.com/).
+All the process and results of this project can be found at the post available [here](https://thiagolimaop.medium.com/predicting-genuine-and-forged-banknotes-f4ac38d5aa0e).
 
 ## Acknowledgments<a name="acknowledgments"></a>
 
